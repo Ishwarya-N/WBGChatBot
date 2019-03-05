@@ -1,0 +1,18 @@
+{
+    "name": "Chat",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/messages",
+            "id": "bcedefe0-3c49-11e9-9df3-a96de7cedc6f",
+            "name": "http://localhost:3979/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\jselvak\\Desktop\\Ishu\\CustomerServiceChatBot\\Chat.bot"
+}
